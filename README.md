@@ -10,7 +10,7 @@ The study's purpose is to  is used to show how school work, weather, and other f
 
 ## FILES:
 * utils.py stores all of the functions I used throughout the project. 
-* To run the project, go to main.ipynb, where all of the data, EDA, and hypothesis testing occurs, and simply run that program. 
+* To run the project, go to report.ipynb, where all of the data, EDA, and hypothesis testing occurs, and simply run that program. 
 * SleepData.csv contains all of the collected data I used for the project.
 
 
