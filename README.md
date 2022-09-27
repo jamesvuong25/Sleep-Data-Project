@@ -1,6 +1,5 @@
-# CPSC222 Sleep Data Project
-James Vuong  
-CPSC222 Fall 2021
+#Sleep Data Project
+James Vuong 
 
 
 ## PROJECT FOCUS: 
